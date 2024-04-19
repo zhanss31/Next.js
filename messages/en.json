@@ -1,0 +1,18 @@
+{
+    "Header": {
+      "platform": "Platform",
+      "features": "Features",
+      "faq": "FAQ",
+      "contacts": "Contacts",
+      "signIn":"Sign In"
+    },
+    "Main":{
+        "title":"Personal assistant AI"
+    },
+    "Footer":{
+        "contacts":"Contacts"
+    },
+    "NotFoundPage":{
+      "error":"Something went wrong!"
+    }
+  }
